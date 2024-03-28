@@ -1,0 +1,7 @@
+﻿::deep igx-page-nav .igx-page-nav__text {
+    color: orangered;
+}
+
+::deep igx-page-nav .igx-icon {
+    color: limegreen;
+}
